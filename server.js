@@ -11,7 +11,7 @@ var todos = [{
 	completed:false
 },{
 	id:3,
-	description:'Go to market 2',
+	description:'Finir mes applications',
 	completed:true
 }]
 
